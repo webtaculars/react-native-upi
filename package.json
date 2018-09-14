@@ -1,0 +1,11 @@
+{
+  "name": "react-native-upi",
+  "version": "1.0.0",
+  "description": "A react native module for handling payment through UPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
