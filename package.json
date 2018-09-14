@@ -1,11 +1,12 @@
 {
   "name": "react-native-upi",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A react native module for handling payment through UPI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": ["react-native", "react-native-upi", "react", "native", "upi"],
+  "author": "Abhishek gupta",
   "license": "ISC"
 }
